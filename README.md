@@ -1,4 +1,4 @@
-# Apuntes del Curso de Desarrollo
+# Apuntes del Curso de Desarrollo co IA
 
 ## Índice
 
